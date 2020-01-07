@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PacMan", "PacMan\PacMan.vcxproj", "{452A77CE-EECD-4059-B01C-39314C7618C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		RELL|x64 = RELL|x64
+		RELL|x86 = RELL|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Debug|x64.ActiveCfg = Debug|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Debug|x64.Build.0 = Debug|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Debug|x86.ActiveCfg = Debug|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Debug|x86.Build.0 = Debug|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Release|x64.ActiveCfg = Release|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Release|x64.Build.0 = Release|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Release|x86.ActiveCfg = Release|Win32
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.Release|x86.Build.0 = Release|Win32
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.RELL|x64.ActiveCfg = RELL|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.RELL|x64.Build.0 = RELL|x64
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.RELL|x86.ActiveCfg = RELL|Win32
+		{452A77CE-EECD-4059-B01C-39314C7618C8}.RELL|x86.Build.0 = RELL|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E89A1856-8FD8-410E-BDBF-B43CEDA70218}
+	EndGlobalSection
+EndGlobal
